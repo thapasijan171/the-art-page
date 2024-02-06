@@ -24,7 +24,7 @@ Welcome to "The Art Page" project! This web page is designed to showcase various
 ## Getting Started
 1. Clone this repository to your local machine:
    ```bash
-   git clone https://github.com/your-username/the-art-page.git
+   git clone https://github.com/thapasijan171/the-art-page.git
    ```
 ```bash
 cd the-art-page
@@ -50,7 +50,7 @@ Feel free to reach out if you have any questions or suggestions. Happy exploring
 
 ```bash
 
-Make sure to replace "your-username" with your actual GitHub username if you plan to host the project on GitHub.
+Make sure to replace thapasijan171 with your actual GitHub username if you plan to host the project on GitHub.
 ```
 
 
